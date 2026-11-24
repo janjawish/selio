@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/Selio.Core/Selio.Core.csproj" />
+  <Project Path="src/Selio/Selio.csproj" />
+  <Project Path="tests/Selio.Tests/Selio.Tests.csproj" />
+</Solution>
